@@ -114,6 +114,7 @@ a:hover{
 
 .python-img {
   width: 20%;
+  border-radius: 100%;
   float: left;
   margin-right: 30px;
 }
